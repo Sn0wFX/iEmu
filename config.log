@@ -1,0 +1,27 @@
+gcc -D_FORTIFY_SOURCE=2 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -Wstrict-prototypes -Wredundant-decls -Wall -Wundef -Wendif-labels -Wwrite-strings -Wmissing-prototypes -fno-strict-aliasing -c -o /tmp/qemu-conf-30016-1244-31560.o /tmp/qemu-conf-2686-1244-28599.c
+/tmp/qemu-conf-2686-1244-28599.c:2:2: error: #error Not defined
+ #error Not defined
+  ^
+gcc -D_FORTIFY_SOURCE=2 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -Wstrict-prototypes -Wredundant-decls -Wall -Wundef -Wendif-labels -Wwrite-strings -Wmissing-prototypes -fno-strict-aliasing -c -o /tmp/qemu-conf-30016-1244-31560.o /tmp/qemu-conf-2686-1244-28599.c
+gcc -D_FORTIFY_SOURCE=2 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -Wstrict-prototypes -Wredundant-decls -Wall -Wundef -Wendif-labels -Wwrite-strings -Wmissing-prototypes -fno-strict-aliasing -c -o /tmp/qemu-conf-30016-1244-31560.o /tmp/qemu-conf-2686-1244-28599.c
+/tmp/qemu-conf-2686-1244-28599.c:2:2: error: #error Not defined
+ #error Not defined
+  ^
+gcc -D_FORTIFY_SOURCE=2 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -Wstrict-prototypes -Wredundant-decls -Wall -Wundef -Wendif-labels -Wwrite-strings -Wmissing-prototypes -fno-strict-aliasing -c -o /tmp/qemu-conf-30016-1244-31560.o /tmp/qemu-conf-2686-1244-28599.c
+/tmp/qemu-conf-2686-1244-28599.c:2:2: error: #error Not defined
+ #error Not defined
+  ^
+gcc -D_FORTIFY_SOURCE=2 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -Wstrict-prototypes -Wredundant-decls -Wall -Wundef -Wendif-labels -Wwrite-strings -Wmissing-prototypes -fno-strict-aliasing -c -o /tmp/qemu-conf-30016-1244-31560.o /tmp/qemu-conf-2686-1244-28599.c
+/tmp/qemu-conf-2686-1244-28599.c:2:2: error: #error Not defined
+ #error Not defined
+  ^
+gcc -D_FORTIFY_SOURCE=2 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -Wstrict-prototypes -Wredundant-decls -Wall -Wundef -Wendif-labels -Wwrite-strings -Wmissing-prototypes -fno-strict-aliasing -c -o /tmp/qemu-conf-30016-1244-31560.o /tmp/qemu-conf-2686-1244-28599.c
+/tmp/qemu-conf-2686-1244-28599.c:2:2: error: #error Not defined
+ #error Not defined
+  ^
+gcc -D_FORTIFY_SOURCE=2 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -Wstrict-prototypes -Wredundant-decls -Wall -Wundef -Wendif-labels -Wwrite-strings -Wmissing-prototypes -fno-strict-aliasing -c -o /tmp/qemu-conf-30016-1244-31560.o /tmp/qemu-conf-2686-1244-28599.c
+/tmp/qemu-conf-2686-1244-28599.c:2:2: error: #error Not defined
+ #error Not defined
+  ^
+gcc -m64 -D__USE_MINGW_ANSI_STDIO=1 -DWIN32_LEAN_AND_MEAN -DWINVER=0x501 -mno-cygwin -D_FORTIFY_SOURCE=2 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -Wstrict-prototypes -Wredundant-decls -Wall -Wundef -Wendif-labels -Wwrite-strings -Wmissing-prototypes -fno-strict-aliasing -c -o /tmp/qemu-conf-30016-1244-31560.o /tmp/qemu-conf-2686-1244-28599.c
+gcc: error: unrecognized command line option ‘-mno-cygwin’
